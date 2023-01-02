@@ -1,0 +1,10 @@
+
+name: nava    score: 1
+
+name: pooneh    score: 2
+
+name: mojdeh    score: 1
+
+name: nava    score: 2
+
+name: nava    score: 2
